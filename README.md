@@ -13,5 +13,5 @@ Alternatively you can also use pyInstaller to make it into an executable file.
 Screeenshot:
 
 
-![Game Screenshot](https://raw.githubusercontent.com/rainirnai/pygame_game/master/Game%20Screenshot.PNG)
+![Game Screenshot](https://raw.githubusercontent.com/rainirnai/SAP_Bill_of_Materials_Explosion/main/BOM_Explosion_GUI.png)
 
