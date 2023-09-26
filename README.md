@@ -11,5 +11,7 @@ This is a tkinter based GUI program which requires an excel file exported from S
 Alternatively you can also use pyInstaller to make it into an executable file.
 
 Screeenshot:
+
+
 ![Game Screenshot](https://raw.githubusercontent.com/rainirnai/pygame_game/master/Game%20Screenshot.PNG)
 
